@@ -2,6 +2,7 @@ import board
 import busio
 import adafruit_ads1x15.ads1115 as ADS
 import flet as ft
+import flet as ft
 import pandas as pd
 import csv
 from csv import writer
